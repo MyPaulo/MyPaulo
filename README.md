@@ -62,7 +62,7 @@ class SecurityEnthusiast:
 ## 📫 How to reach me:
 - **Email**: paul.chineme60@yahoo.com
 - **Phone**: (709) 297-0338
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mypaulo/)
 - **Location**: North York, ON 🇨🇦
 
 ## ⚡ Fun facts:
