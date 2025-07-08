@@ -66,10 +66,10 @@ class SecurityEnthusiast:
 - **Location**: North York, ON 🇨🇦
 
 ## ⚡ Fun facts:
-- I've worked with both **Ericsson and Huawei** network equipment in telecommunications
-- I can troubleshoot everything from **mobile devices** to **enterprise networks**
-- I've built tools that integrate **WhatWeb, theHarvester, and WHOIS** for security scanning
-- I'm a **certified Google IT Support Professional** and **CompTIA trained**
+- I have worked with both **Ericsson and Huawei** network equipment in telecommunications
+- I can troubleshoot everything on **mobile devices**
+- I have built tools that integrate **WhatWeb, theHarvester, and WHOIS** for security scanning
+- I am a **certified Google IT Support Professional** and **CompTIA trained**
 - I volunteer helping **first-year students** transition to university life
 
 ## 🛠️ Tech Stack:
@@ -87,8 +87,6 @@ class SecurityEnthusiast:
 
 <div align="center">
   
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyPaulo&show_icons=true&theme=dark)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyPaulo&layout=compact&theme=dark)
 
 </div>
