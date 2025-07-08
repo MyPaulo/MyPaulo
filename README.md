@@ -42,7 +42,6 @@ class SecurityEnthusiast:
 
 ## 👯 I'm looking to collaborate on...
 - Open-source cybersecurity tools and utilities
-- Web application security testing frameworks
 - Educational programming resources for students
 - Network security and system administration projects
 
@@ -50,7 +49,6 @@ class SecurityEnthusiast:
 - Advanced penetration testing methodologies
 - Cloud security architecture and best practices
 - Machine learning applications in cybersecurity
-- Contributing to major open-source security projects
 
 ## 💬 Ask me about...
 - Cybersecurity and vulnerability assessment
