@@ -1,5 +1,19 @@
 # Hi there 👋 I'm Paul Osuji
 
+```python
+class SecurityEnthusiast:
+    def __init__(self):
+        self.name = "Paul Osuji"
+        self.role = "CS Student & Cybersecurity Enthusiast"
+        self.location = "North York, ON 🇨🇦"
+        self.education = "University of Windsor (Great Distinction 🏆)"
+        self.passion = ["Security", "IT Support", "Computer Support", "System Administration"]
+        self.coffee_level = "Maximum ☕"
+    
+    def current_status(self):
+        return "Teaching Assembly & Building Secure Applications"
+```
+
 <!--
 **MyPaulo/MyPaulo** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -9,7 +23,10 @@
 🔐 **Security-focused Computer Science Student** passionate about building secure applications and systems  
 🎓 Currently pursuing **Bachelor of Computer Science** at University of Windsor (Great Distinction)  
 👨‍🏫 **Teaching Assistant** for Assembly Language Programming  
-🌐 **Full-Stack Developer** with cybersecurity expertise  
+🛠️ **IT Support Specialist** with extensive experience in technical troubleshooting  
+💻 **Computer Support Professional** skilled in hardware/software diagnostics  
+🖥️ **System Administrator** experienced with Windows, Linux, and network infrastructure  
+📡 **Network Technologist** with telecom industry background (Ericsson, Huawei equipment)  
 
 ## 🔭 I'm currently working on...
 - Teaching Assembly language programming to university students
@@ -66,12 +83,24 @@
 - 🔍 **[SafeScan](https://github.com/MyPaulo/SafeScan)** - Terminal-based web vulnerability scanner
 - 🔐 **[PassCheck](https://github.com/MyPaulo/passcheck)** - Password security analyzer with breach detection
 
+## 📈 GitHub Stats
+
+<div align="center">
+  
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyPaulo&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MyPaulo&layout=compact&theme=dark)
+
+</div>
+
 ---
 
 <div align="center">
-
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyPaulo&show_icons=true&theme=dark)
-
+  
 **💡 "Security is not a product, but a process" - Always learning, always securing**
+
+*Open to discussing cybersecurity, system administration, or cool coding projects!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=MyPaulo&color=blueviolet&style=flat-square)
 
 </div>
