@@ -7,7 +7,7 @@ class SecurityEnthusiast:
         self.role = "CS Student & Cybersecurity Enthusiast"
         self.location = "North York, ON 🇨🇦"
         self.education = "University of Windsor (Great Distinction 🏆)"
-        self.passion = ["Security", "Web Development", "System Administration"]
+        self.passion = ["Security", "IT Support","Computer support "System Administration"]
         self.coffee_level = "Maximum ☕"
     
     def current_status(self):
