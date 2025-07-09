@@ -8,7 +8,7 @@ class SecurityEnthusiast:
         self.location = "North York, ON 🇨🇦"
         self.education = "University of Windsor (Great Distinction 🏆)"
         self.passion = ["Security", "IT Support", "Computer Support", "System Administration"]
-        self.Tea_level + Hot_Chocolate_level = "Maximum "
+        self.Tea_level  = "Maximum "
     
     def current_status(self):
         return "Teaching Assembly & Building Secure Applications"
