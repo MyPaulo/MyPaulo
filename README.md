@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Paul Osuji
+# Hello👋 I am Paul Osuji or you can simply call ne Paul 
 
 ```python
 class SecurityEnthusiast:
