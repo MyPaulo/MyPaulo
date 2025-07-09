@@ -28,30 +28,29 @@ class SecurityEnthusiast:
 🖥️ **System Administrator** experienced with Windows, Linux, and network infrastructure  
 📡 **Network Technologist** with telecom industry background (Ericsson, Huawei equipment)  
 
-## 🔭 I'm currently working on...
+## 🔭 currently working on...
 - Teaching Assembly language programming to university students
 - Building advanced cybersecurity tools and web scanners
 - Developing secure password analysis applications
 - Contributing to open-source security projects
 
-## 🌱 I'm currently learning...
+## 🌱currently learning...
 - Advanced cybersecurity techniques and penetration testing
 - Modern web development frameworks and security best practices
 - Network security protocols and infrastructure management
 - Mobile application security and device management
 
-## 👯 I'm looking to collaborate on...
+## 👯looking to collaborate on...
 - Open-source cybersecurity tools and utilities
 - Educational programming resources for students
 - Network security and system administration projects
 
-## 🤔 I'm looking for help with...
+## 🤔looking for help with...
 - Advanced penetration testing methodologies
 - Cloud security architecture and best practices
 - Machine learning applications in cybersecurity
 
 ## 💬 Ask me about...
-- Cybersecurity and vulnerability assessment
 - Assembly language programming and system-level development
 - Network configuration and telecommunications infrastructure
 - Web development and database management
