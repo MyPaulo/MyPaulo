@@ -58,7 +58,7 @@ class SecurityEnthusiast:
 - Teaching and mentoring in computer science
 
 ## 📫 How to reach me:
-- **Email**: paul.chineme60@yahoo.com
+- **Email**: paul.chineme25@gmail.com
 - **Phone**: (709) 297-0338
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/mypaulo/)
 - **Location**: North York, ON 🇨🇦
