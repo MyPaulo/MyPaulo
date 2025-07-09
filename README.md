@@ -25,7 +25,7 @@ class SecurityEnthusiast:
 👨‍🏫 **Teaching Assistant** for Assembly Language Programming  
 🛠️ **IT Support Specialist** with extensive experience in technical troubleshooting  
 💻 **Computer Support Professional** skilled in hardware/software diagnostics  
-🖥️ **System Administrator** experienced with Windows, Linux, and network infrastructure  
+🖥️ **IT Administrator** experienced with Windows, Linux, and network infrastructure  
 📡 **Network Technologist** with telecom industry background (Ericsson, Huawei equipment)  
 
 ## 🔭 currently working on...
