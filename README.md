@@ -9,7 +9,7 @@ class SecurityEnthusiast:
         self.education = "University of Windsor (Great Distinction 🏆)"
         self.passions = ["Security", "IT Support", "Mobile & Computer Troubleshooting"]
         self.goal = "Become a Certified System Administrator" 
-        self.Tea_level  = "Maximum "
+        self.tea_level  = "Maximum "
     
     def current_status(self):
         return "Teaching Assembly & Building Secure Applications"
@@ -52,7 +52,7 @@ class SecurityEnthusiast:
 
 ## ⚡ Fun facts:
 - I have worked with both **Ericsson and Huawei** network equipment in telecommunications
-- I troubleshoot a wide range of mobile device issues**
+- I troubleshoot a wide range of mobile device issues
 - I have built tools that integrate **WhatWeb, theHarvester, and WHOIS** for security scanning
 - I am a **certified Google IT Support Professional** and **CompTIA trained**
 - I volunteer helping **first-year students** transition to university life
