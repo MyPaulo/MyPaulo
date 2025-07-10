@@ -1,4 +1,4 @@
-# Hello👋 I am Paul Osuji or simply call me Paul
+# Hello👋 I am Paul
 
 ```python
 class SecurityEnthusiast:
@@ -40,16 +40,6 @@ class SecurityEnthusiast:
 - Network security protocols and infrastructure management
 - Mobile application security and device management
 
-## 👯looking to collaborate on...
-- Open-source cybersecurity tools and utilities
-- Educational programming resources for students
-- Network security and system administration projects
-
-## 🤔looking for help with...
-- Advanced penetration testing methodologies
-- Cloud security architecture and best practices
-- Machine learning applications in cybersecurity
-
 ## 💬 Ask me about...
 - Assembly language programming and system-level development
 - Network configuration and telecommunications infrastructure
@@ -64,7 +54,7 @@ class SecurityEnthusiast:
 
 ## ⚡ Fun facts:
 - I have worked with both **Ericsson and Huawei** network equipment in telecommunications
-- I can troubleshoot everything on **mobile devices**
+- I troubleshoot a wide range of mobile device issues**
 - I have built tools that integrate **WhatWeb, theHarvester, and WHOIS** for security scanning
 - I am a **certified Google IT Support Professional** and **CompTIA trained**
 - I volunteer helping **first-year students** transition to university life
