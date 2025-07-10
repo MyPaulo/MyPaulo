@@ -35,15 +35,12 @@ class SecurityEnthusiast:
 - Contributing to open-source security projects
 
 ## 🌱currently learning...
-- Advanced cybersecurity techniques and penetration testing
-- Modern web development frameworks and security best practices
 - Network security protocols and infrastructure management
 - Mobile application security and device management
 
 ## 💬 Ask me about...
 - Assembly language programming and system-level development
 - Network configuration and telecommunications infrastructure
-- Web development and database management
 - Teaching and mentoring in computer science
 
 ## 📫 How to reach me:
