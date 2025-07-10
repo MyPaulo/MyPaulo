@@ -1,14 +1,22 @@
 # Hello👋 I am Paul
 
 ```python
+   _____       _        _     _             
+  |  __ \     | |      | |   (_)            
+  | |__) |   _| |_ __ _| |__  _ _ __   __ _ 
+  |  ___/ | | | __/ _` | '_ \| | '_ \ / _` |
+  | |   | |_| | || (_| | |_) | | | | | (_| |
+  |_|    \__,_|\__\__,_|_.__/|_|_| |_|\__, |
+                                       __/ |
+                                      |___/ 
 class SecurityEnthusiast:
     def __init__(self):
         self.name = "Paul Osuji"
         self.role = "CS Student & Cybersecurity Enthusiast"
         self.location = "North York, ON 🇨🇦"
         self.education = "University of Windsor (Great Distinction 🏆)"
-        self.passion = ["Security", "IT Support", "Computer Support"]
-        self.goal = "Becoming a full Certified System System Administration" 
+        self.passions = ["Security", "IT Support", "Mobile & Computer Troubleshooting"]
+        self.goal = "Become a Certified System Administrator" 
         self.Tea_level  = "Maximum "
     
     def current_status(self):
