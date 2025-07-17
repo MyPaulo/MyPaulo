@@ -82,7 +82,7 @@ class SecurityEnthusiast:
   
 **💡 "Security is not a product, but a process" - Always learning, always securing**
 
-*Open to discussing cybersecurity, system administration, or cool coding projects!*
+*Open to discussing cybersecurity, system administration, Information technology, or cool coding projects!*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MyPaulo&color=blueviolet&style=flat-square)
 
