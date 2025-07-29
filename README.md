@@ -31,7 +31,7 @@ class SecurityEnthusiast:
 
 ##  currently working on...
 
-"Currently studying for CompTIA A+ Core 1 (220-1201) and Core 2 (220-1202): the most up-to-date version of the A+ exams
+Currently studying for CompTIA A+ Core 1 (220-1201) and Core 2 (220-1202): the most up-to-date version of the A+ exams
 
 - Teaching Assembly language programming to university students
 - Building advanced cybersecurity tools and web scanners
