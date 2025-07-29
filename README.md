@@ -23,11 +23,11 @@ class SecurityEnthusiast:
 
 🔐 **Security-focused Computer Science Student** passionate about building secure applications and systems  
 🎓 Currently pursuing **Bachelor of Computer Science** at University of Windsor (Great Distinction)  
-👨‍🏫 **Teaching Assistant** for Assembly Language Programming  
-🛠️ **IT Support Specialist** with extensive experience in technical troubleshooting  
-💻 **Computer Support Professional** skilled in hardware/software diagnostics  
-🖥️ **IT Administrator** experienced with Windows, Linux, and network infrastructure  
-📡 **Network Technologist** with telecom industry background (Ericsson, Huawei equipment)  
+ **Teaching Assistant** for Assembly Language Programming  
+ **IT Support Specialist** with extensive experience in technical troubleshooting  
+ **Computer Support Professional** skilled in hardware/software diagnostics  
+ **IT Administrator** experienced with Windows, Linux, and network infrastructure  
+ **Network Technologist** with telecom industry background (Ericsson, Huawei equipment)  
 
 ## currently learning...
 
@@ -62,9 +62,9 @@ studying for CompTIA A+ Core 1 (220-1201) and Core 2 (220-1202): the most up-to-
 **Tools**: Microsoft Office, SharePoint, AutoCAD, WordPress  
 
 ## Featured Projects:
-- 🔍 **[SafeScan](https://github.com/MyPaulo/SafeScan)** - Terminal-based web vulnerability scanner
-- 🔐 **[PassCheck](https://github.com/MyPaulo/passcheck)** - Password security analyzer with breach detection
-- 🔐 **[Gym_Management_System](https://github.com/MyPaulo/Gym_Management_System)** - Gym management System with CLI
+-  **[SafeScan](https://github.com/MyPaulo/SafeScan)** - Terminal-based web vulnerability scanner
+-  **[PassCheck](https://github.com/MyPaulo/passcheck)** - Password security analyzer with breach detection
+-  **[Gym_Management_System](https://github.com/MyPaulo/Gym_Management_System)** - Gym management System with CLI
 ## 📈 GitHub Stats
 
 <div align="center">
